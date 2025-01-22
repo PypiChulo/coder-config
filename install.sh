@@ -8,6 +8,6 @@ sudo apt update
 
 # Install tmux
 echo "Installing tmux"
-sudo apt install tmux
+sudo apt install -y tmux
 
 echo "Dotfiles repository installation complete!"
