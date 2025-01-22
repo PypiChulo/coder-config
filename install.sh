@@ -6,7 +6,7 @@ echo "Starting the dotfiles repository installation process..."
 echo "Updating package list..."
 sudo apt update
 
-# Install Python 3.9 and venv
+# Install tmux
 echo "Installing tmux"
 sudo apt install tmux
 
